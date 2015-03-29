@@ -12,3 +12,7 @@ appearance -> customize -> widgets -> footer
 revolution slider
 
 Slide options: van tot: mogelijkheid om aankondigingen te doen
+
+## codebase
+
+/home/lou/ssd/Copy/websitenam
